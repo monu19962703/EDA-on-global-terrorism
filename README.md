@@ -1,6 +1,8 @@
 # EDA-on-global-terrorism
 This project is based on the database maintained by researchers at the National Consortium for the Study of Terrorism and Response to Terrorism(START)
+
 INTRODUCTION
+
 Impact of global terrorism is increasing across different years due to violent extremism and many other reasons. We decided to took this project due to our mutual interest in analyzing global terrorism and the reasons behind it. Using 14 different analysis we were able to complete our task with the help of interactive and understandable visualisation using different types of libraries such as plotly,numpy,pandas,matplotlib etc. The Global Terrorism Database(GTD) is an open-source database which contains information of 181691 rows and 135 columns. While checking our dataset, analyzing columns and their values were challenging but through certain data wrangling operations i was able to convert our dataset to our own requirement. Graphs we plot on the each analysis were simple and by utilizing more libraries in python we made the graphs more interactive.
 PROBLEM STATEMENT
 The GTD includes systematic data on domestic as well as international terrorist incidents that have occured during this period and now includes more than 180,000 attacks. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Response to Terrorism(START), headquartered at the University of Maryland. In this project we have explored and analysed the data and the findings has been visualized using graphs.

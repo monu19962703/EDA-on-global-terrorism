@@ -35,4 +35,9 @@ Bar graph using plotly
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/121782863/217161592-bf936237-c97b-462c-a5fa-66853ab0d384.png)
 
+pie chart
+
+![Screenshot (45)](https://user-images.githubusercontent.com/121782863/217161905-a6be3333-c2eb-46cb-a22d-7e65070ea552.png)
+
+
 
